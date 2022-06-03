@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Los Tacos</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="voltar">Voltar</string>
+    <string name="tente_novamente">Tente novamente</string>
+    <string name="senha">Senha</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="novo_usuario">Não possui conta? Registra-se!</string>
+    <string name="cadastro_titulo">Crie sua conta agora mesmo!</string>
+    <string name="cadastro_texto">e aproveite todos benefícios do nosso restaurante.</string>
+    <string name="campo_obrigatorio">Esse campo é obrigatório!</string>
+    <string name="nome_obrigatorio">O nome é obrigatório!</string>
+    <string name="telefone_obrigatorio">O número de telefone é obrigatório!</string>
+    <string name="email_obrigatorio">O endereço de e-mail é obrigatório!</string>
+    <string name="email_invalido">O endereço de e-mail é inválido!</string>
+    <string name="cpf_obrigatorio">O CPF é obrigatório!</string>
+    <string name="aniversario_obrigatorio">A data de aniversário é obrigatória!</string>
+    <string name="senha_obrigatoria">A senha é obrigatória!</string>
+    <string name="senha_caracteres">A senha deve conter no mínimo 8 caracteres!</string>
+    <string name="senha_confirme">Confirme sua senha!</string>
+    <string name="senha_confirmar">As senhas devem ser iguais!</string>
+    <string name="ola">Olá</string>
+    <string name="sair">Sair</string>
+    <string name="aguarde">Por favor, aguarde…</string>
+    <string name="reservas">Reservas</string>
+    <string name="cardapio">Cardápio</string>
+    <string name="perfil">Perfil</string>
+    <string name="sobre">Sobre</string>
+    <string name="mesa">Mesa</string>
+    <string name="mesa_reservada">Essa mesa já está reservada!</string>
+    <string name="qual_horario">Qual horário?</string>
+    <string name="quantas_pessoas">Quantas pessoas?</string>
+    <string name="reservar">Reservar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="escolha_mesa">Escolha a mesa que deseja reservar:</string>
+    <string name="minhas_reservas">Minhas reservas</string>
+    <string name="cliente">Cliente</string>
+    <string name="administrador">Administrador</string>
+    <string name="data_nascimento">Data de nascimento</string>
+    <string name="data_registro">Data de registro</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="data">Data</string>
+    <string name="horario">Horário</string>
+    <string name="pessoas">Pessoas</string>
+
+    // comidas
+
+    <string name="taco">O petisco consiste em uma tortilha que pode ser recheada com qualquer alimento, depois é só dobrar e saborear. Tanta flexibilidade garante um cardápio variado de opções.</string>
+    <string name="guacamole">O guacamole é uma iguaria típica da culinária do México, servida com uma grande variedade de pratos e geralmente acompanhada com pico-de-gallo e nata azeda.</string>
+    <string name="tortillas">Esse snack é feito a partir de uma farinha de milho especial chamada nixtamal, ou milho nixtamalizado.</string>
+    <string name="chilli">Chili com carne é um ensopado picante, feito com carne e e feijão e é um dos pratos mais conhecidos da culinária mexicana. A receita de chili com carne é simples e prática de preparar e ganha um sabor picante com o uso da pimenta jalapenho e pimenta caiena.</string>
+    <string name="burrito">Burrito é um prato tradicional da culinária mexicana, consistindo em uma tortilla de farinha geralmente recheada de diversos ingredientes, a maior parte das variantes utiliza feijão e carnes (bovina, suína ou frango) com acompanhamentos.</string>
+    <string name="nacho">Nachos são uma comida popular nos Estados Unidos e no México. O prato consiste de tortilhas de milho crocantes com formato triangular, cobertas por queijo e pimenta jalapeño.</string>
+
+    // Mensagens recebidas da api
+    <string name="usuario_cadastrado">Usuário foi cadastrado com sucesso!</string>
+    <string name="email_nao_cadastrado">Esse endereço de e-mail não está cadastrado!</string>
+    <string name="email_cadastrado">Esse endereço de e-mail já está sendo utilizado!</string>
+    <string name="senha_incorreta">Senha incorreta!</string>
+    <string name="problema_conexao_servidor">Problema de conexão com o servidor, tente novamente mais tarde!</string>
+    <string name="mesas_permitidas">Você só pode reservar uma mesa por dia!</string>
+    <string name="reservado_sucesso">Reservado com sucesso!</string>
+</resources>

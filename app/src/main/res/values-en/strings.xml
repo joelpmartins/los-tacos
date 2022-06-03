@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Los Tacos</string>
+    <string name="nome">Name</string>
+    <string name="telefone">Telephone</string>
+    <string name="entrar">Login</string>
+    <string name="cadastrar">Register</string>
+    <string name="voltar">Back</string>
+    <string name="tente_novamente">Retry</string>
+    <string name="senha">Password</string>
+    <string name="confirmar_senha">Confirm password</string>
+    <string name="novo_usuario">Dont have an account? Register!</string>
+    <string name="cadastro_titulo">Create your account right now!</string>
+    <string name="cadastro_texto">and enjoy all the benefits of our restaurant.</string>
+    <string name="campo_obrigatorio">This field is required!</string>
+    <string name="nome_obrigatorio">Name is required!</string>
+    <string name="telefone_obrigatorio">Phone number is required!</string>
+    <string name="email_obrigatorio">Email address is required!</string>
+    <string name="email_invalido">The email address is invalid!</string>
+    <string name="cpf_obrigatorio">CPF is required!</string>
+    <string name="aniversario_obrigatorio">Anniversary date is required!</string>
+    <string name="senha_obrigatoria">Password is required!</string>
+    <string name="senha_caracteres">The password must contain at least 8 characters!</string>
+    <string name="senha_confirme">Confirm your password!</string>
+    <string name="senha_confirmar">Passwords must be the same!</string>
+    <string name="ola">Hi</string>
+    <string name="sair">Logout</string>
+    <string name="aguarde">Please wait…</string>
+    <string name="reservas">Reservations</string>
+    <string name="cardapio">Menu</string>
+    <string name="perfil">Profile</string>
+    <string name="sobre">About</string>
+    <string name="mesa">Table</string>
+    <string name="mesa_reservada">This table is already booked!</string>
+    <string name="qual_horario">What time?</string>
+    <string name="quantas_pessoas">How many people?</string>
+    <string name="reservar">Reserve</string>
+    <string name="cancelar">Cancel</string>
+    <string name="escolha_mesa">Choose the table you want to book:</string>
+    <string name="minhas_reservas">My reservations</string>
+    <string name="cliente">Client</string>
+    <string name="administrador">Administrator</string>
+    <string name="data_nascimento">Birth date</string>
+    <string name="data_registro">Registration Date</string>
+    <string name="pesquisar">Search</string>
+    <string name="data">Date</string>
+    <string name="horario">Time</string>
+    <string name="pessoas">People</string>
+
+    // comidas
+
+    <string name="taco">The snack consists of a tortilla that can be filled with any food, then just fold and taste. Such flexibility guarantees a varied menu of options.</string>
+    <string name="guacamole">Guacamole is a typical delicacy of Mexican cuisine, served with a wide variety of dishes and usually accompanied with pico-de-gallo and sour cream.</string>
+    <string name="tortillas">This snack is made from a special corn flour called nixtamal, or nixtamalized corn.</string>
+    <string name="chilli">Chili con carne is a spicy stew made with meat and beans and is one of the most popular dishes in Mexican cuisine. The chili con carne recipe is simple and practical to prepare and gains a spicy flavor with the use of jalapeño pepper and cayenne pepper.</string>
+    <string name="burrito">Burrito is a traditional dish of Mexican cuisine, consisting of a flour tortilla usually stuffed with various ingredients, most variants use beans and meat (beef, pork or chicken) with side dishes.</string>
+    <string name="nacho">Nachos are a popular food in the United States and Mexico. The dish consists of crispy, triangular-shaped corn tortillas topped with cheese and jalapeño pepper.</string>
+
+    // Mensagens recebidas da api
+    <string name="usuario_cadastrado">User has been successfully registered!</string>
+    <string name="email_nao_cadastrado">This email address is not registered!</string>
+    <string name="email_cadastrado">This email address is already in use!</string>
+    <string name="senha_incorreta">Incorrect password!</string>
+    <string name="problema_conexao_servidor">Problem connecting to the server, please try again later!</string>
+    <string name="mesas_permitidas">You can only book one table per day!</string>
+    <string name="reservado_sucesso">Successfully booked!</string>
+</resources>

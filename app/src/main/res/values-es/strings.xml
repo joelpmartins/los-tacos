@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Los Tacos</string>
+    <string name="nome">Nombre</string>
+    <string name="telefone">Teléfono</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Registrar</string>
+    <string name="voltar">Volver</string>
+    <string name="tente_novamente">inténtelo de nuevo</string>
+    <string name="senha">Contraseña</string>
+    <string name="confirmar_senha">Confirmar contraseña</string>
+    <string name="novo_usuario">¿No tienes una cuenta? ¡Registro!</string>
+    <string name="cadastro_titulo">Crea tu cuenta ahora mismo!</string>
+    <string name="cadastro_texto">y disfruta de todos los beneficios de nuestro restaurante.</string>
+    <string name="campo_obrigatorio">¡Este campo es obligatorio!</string>
+    <string name="nome_obrigatorio">Se requiere el nombre!</string>
+    <string name="telefone_obrigatorio">¡El número de teléfono es obligatorio!</string>
+    <string name="email_obrigatorio">¡Se requiere Dirección de correo electrónico!</string>
+    <string name="email_invalido">¡La dirección de correo electrónico es inválida!</string>
+    <string name="cpf_obrigatorio">CPF es obligatorio!</string>
+    <string name="aniversario_obrigatorio">La fecha de aniversario es obligatoria!</string>
+    <string name="senha_obrigatoria">La contraseña es obligatoria!</string>
+    <string name="senha_caracteres">¡La contraseña debe contener al menos 8 caracteres!</string>
+    <string name="senha_confirme">¡Confirmar la contraseña!</string>
+    <string name="senha_confirmar">¡Las contraseñas deben ser las mismas!</string>
+    <string name="ola">Hola</string>
+    <string name="sair">Salir</string>
+    <string name="aguarde">Espere por favor…</string>
+    <string name="reservas">Reservas</string>
+    <string name="cardapio">Menú</string>
+    <string name="perfil">Perfil</string>
+    <string name="sobre">Sobre</string>
+    <string name="mesa">Mesa</string>
+    <string name="mesa_reservada">¡Esta mesa ya está reservada!</string>
+    <string name="qual_horario">¿Qué hora?</string>
+    <string name="quantas_pessoas">¿Cuántas personas?</string>
+    <string name="reservar">Reserva</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="escolha_mesa">Elige la mesa que quieres reservar:</string>
+    <string name="minhas_reservas">Mis reservas</string>
+    <string name="cliente">Cliente</string>
+    <string name="administrador">Administrador</string>
+    <string name="data_nascimento">Fecha de nacimiento</string>
+    <string name="data_registro">Fecha de Registro</string>
+    <string name="pesquisar">Buscar</string>
+    <string name="data">Fecha</string>
+    <string name="horario">Tiempo</string>
+    <string name="pessoas">Personas</string>
+
+    // comidas
+
+    <string name="taco">La botana consiste en una tortilla que se puede rellenar con cualquier alimento, luego solo se dobla y se prueba. Tal flexibilidad garantiza un variado menú de opciones.</string>
+    <string name="guacamole">El guacamole es un manjar típico de la cocina mexicana, se sirve con una gran variedad de platillos y suele acompañarse con pico de gallo y crema agria.</string>
+    <string name="tortillas">Este bocadillo está hecho de una harina de maíz especial llamada nixtamal o maíz nixtamalizado.</string>
+    <string name="chilli">El chili con carne es un guiso picante hecho con carne y frijoles y es uno de los platos más populares de la cocina mexicana. La receta de chili con carne es simple y práctica de preparar y adquiere un sabor picante con el uso de chile jalapeño y pimienta de cayena.</string>
+    <string name="burrito">El burrito es un platillo tradicional de la cocina mexicana, que consiste en una tortilla de harina generalmente rellena con varios ingredientes, la mayoría de las variantes usan frijoles y carne (res, puerco o pollo) con guarniciones.</string>
+    <string name="nacho">Los nachos son una comida popular en los Estados Unidos y México. El plato consiste en tortillas de maíz crujientes de forma triangular cubiertas con queso y chile jalapeño.</string>
+
+    // Mensagens recebidas da api
+    <string name="usuario_cadastrado">¡El usuario ha sido registrado con éxito!</string>
+    <string name="email_nao_cadastrado">¡Esta dirección de email no está registrada!</string>
+    <string name="email_cadastrado">¡Esta dirección de correo electrónico ya está en uso!</string>
+    <string name="senha_incorreta">¡Contraseña incorrecta!</string>
+    <string name="problema_conexao_servidor">Problema al conectar con el servidor, inténtalo de nuevo más tarde.</string>
+    <string name="mesas_permitidas">¡Solo puedes reservar una mesa por día!</string>
+    <string name="reservado_sucesso">¡Reservado con éxito!</string>
+</resources>
